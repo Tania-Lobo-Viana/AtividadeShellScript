@@ -1,12 +1,8 @@
 # AtividadeShellScript
 Atividades Shell Script
 
-Atividade Avaliativa – Questão 1 a 10 (2.0pts)
-Professor: Alex Oliveira
-Matéria: Programação em Ambiente de Redes
-Aluno: ___________________________________________________________
 EXERCÍCIOS
-1-Faça um algoritmo para calcular a área de uma circunferência, considerando a fórmula
+1-Em shell Script Faça um algoritmo para calcular a área de uma circunferência, considerando a fórmula
 ÁREA = π * RAIO². Utilize as variáveis AREA e RAIO, a constante π (pi =3,14159) e os
 operadores aritméticos de multiplicação.
 
